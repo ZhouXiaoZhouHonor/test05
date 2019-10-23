@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test05</string>
+    <string name="tem_message">请选择您要查看的城市</string>
+    <string name="city">城市</string>
+    <string name="tm_state">晴天</string>
+    <string name="tm_num">温度</string>
+    <string name="wind">无风</string>
+</resources>
